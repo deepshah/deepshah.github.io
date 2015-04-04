@@ -1,0 +1,99 @@
+body{
+font-family: 'Trebuchet MS';
+}
+
+a:link {text-decoration:none; color:inherit;}
+a:visited {text-decoration:none; color:inherit;}
+
+#home{
+position:absolute;
+top:10;
+left:5%;
+font-size:250%;
+padding:5px 10px;
+color:#444444;
+}
+
+#navbar{
+display:none;
+position:absolute;
+top:50px;
+left:250px;
+}
+
+#navbar td{
+padding:10px;
+}
+
+#content{
+max-width:65%;
+padding:10px;
+background-color:#ddddcc;
+position:absolute;
+top:100px;
+left:5%;
+right:30%;
+}
+
+#page-title{
+position:relative;
+left:40%;
+}
+
+#sidebar{
+max-width:22%;
+padding:10px 15px;
+position:absolute;
+top:100px;
+right:5%;
+text-align:justify;
+}
+
+#footer{
+text-align:center;
+z-index:1;
+}body{
+font-family: 'Trebuchet MS';
+}
+
+a:link {text-decoration:none; color:inherit;}
+a:visited {text-decoration:none; color:inherit;}
+
+#home{
+position:absolute;
+top:10;
+left:10;
+font-size:250%;
+padding:5px 10px;
+color:#444444;
+}
+
+#content{
+max-width:65%;
+padding:10px;
+background-color:#ddddcc;
+position:absolute;
+top:100px;
+left:5%;
+right:30%;
+}
+
+#page-title{
+position:relative;
+left:40%;
+}
+
+#sidebar{
+max-width:22%;
+padding:10px 15px;
+position:absolute;
+top:100px;
+right:5%;
+text-align:justify;
+}
+
+#footer{
+text-align:center;
+z-index:1;
+}
+
